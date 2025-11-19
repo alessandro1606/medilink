@@ -4,18 +4,18 @@ O MediLink é uma plataforma web desenvolvida para otimizar o funcionamento de c
 
 🩺 Problemas Identificados
 
-O MediLink foi criado para solucionar desafios comuns na rotina de clínicas:
+O projeto busca solucionar desafios comuns no dia a dia de clínicas:
 
-Processos manuais dificultam o agendamento, gerando atrasos e erros.
+Processos manuais dificultam o agendamento.
 
-Falta de controle centralizado de horários e profissionais, causando conflitos de agenda.
+Falta de controle centralizado de horários e profissionais.
 
-Longos tempos de espera e comunicação pouco eficiente, prejudicando a experiência do paciente.
+Longos tempos de espera e comunicação pouco eficiente.
 
-Dificuldade para organizar resultados, exames e dados dos pacientes, afetando o fluxo e a qualidade do atendimento.
+Dificuldade para organizar resultados, exames e dados dos pacientes.
 
 🚀 Tecnologias Utilizadas
-Frontend / App
+Frontend / Aplicação
 
 React
 
@@ -33,7 +33,7 @@ Node.js
 
 npm / Yarn
 
-VS Code
+Visual Studio Code
 
 🧩 Funcionalidades Principais
 
@@ -47,12 +47,12 @@ VS Code
 
 🔍 Visualização prática de informações clínicas
 
-🖥️ Interface intuitiva e otimizada para equipes de saúde
+🖥️ Interface intuitiva e otimizada para o uso diário
 
 📦 Como Rodar o Projeto
 🔧 Pré-requisitos
 
-Antes de iniciar, certifique-se de ter instalado:
+Certifique-se de ter instalado:
 
 Node.js
 
@@ -60,29 +60,25 @@ npm ou Yarn
 
 Expo CLI
 
+Instalação do Expo CLI:
+
 npm install -g expo-cli
 
-▶️ Passo a passo
+▶️ Passo a Passo
 
-Instalar dependências
+Instalar dependências:
 
 npm install
 
 
-Iniciar o projeto
+Rodar o projeto:
 
 npm start
 
 
-Escolha como abrir:
+Abrir no navegador, Expo Go ou emulador.
 
-No browser
-
-No Expo Go (Android/iOS)
-
-Em emulador configurado
-
-👥 Integrantes
+👥 Integrantes do Projeto
 Nome	Matrícula
 Alessandro Ferreira Eugênio dos Santos	202251061387
 Bernardo Alves Loures Leite	202351011462
