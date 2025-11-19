@@ -1,50 +1,107 @@
-# Welcome to your Expo app 👋
+Aqui está o README ampliado, incluindo **como rodar o projeto**, **tecnologias**, e **integrantes**:
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+---
 
-## Get started
+# **MediLink**
 
-1. Install dependencies
+O **MediLink** é uma plataforma web desenvolvida para otimizar o funcionamento de clínicas médicas. Ele centraliza os processos internos, permitindo que médicos agendem consultas e exames rapidamente, enquanto a equipe administrativa gerencia horários, serviços e informações dos pacientes com mais organização, precisão e agilidade.
+
+---
+
+## 🩺 Problemas Identificados
+
+O MediLink foi criado para solucionar desafios comuns na rotina de clínicas:
+
+* **Processos manuais dificultam o agendamento**, gerando atrasos e erros.
+* **Falta de controle centralizado de horários e profissionais**, causando conflitos de agenda.
+* **Longos tempos de espera e comunicação pouco eficiente**, prejudicando a experiência do paciente.
+* **Dificuldade para organizar resultados, exames e dados dos pacientes**, afetando o fluxo e a qualidade do atendimento.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+### **Frontend / App**
+
+* **React**
+* **Expo**
+* **JavaScript**
+* **React Navigation**
+* **Axios**
+
+### **Ferramentas de Desenvolvimento**
+
+* **Node.js**
+* **npm / Yarn**
+* **VS Code**
+
+---
+
+## 🧩 Funcionalidades Principais
+
+* 📅 **Agendamento de consultas e exames**
+* 👥 **Gerenciamento completo de pacientes**
+* 🕒 **Controle centralizado de horários e profissionais**
+* 📂 **Organização de exames e resultados**
+* 🔍 **Visualização prática de informações clínicas**
+* 🖥️ **Interface intuitiva e otimizada para equipes de saúde**
+
+---
+
+## 📦 Como Rodar o Projeto
+
+### 🔧 **Pré-requisitos**
+
+Antes de iniciar, certifique-se de ter instalado:
+
+* **Node.js**
+* **npm** ou **Yarn**
+* **Expo CLI**
+
+  ```bash
+  npm install -g expo-cli
+  ```
+
+### ▶️ **Passo a passo**
+
+1. **Instalar dependências**
 
    ```bash
    npm install
    ```
 
-2. Start the app
+2. **Iniciar o projeto**
 
    ```bash
-   npx expo start
+   npm start
    ```
 
-In the output, you'll find options to open the app in a
+3. Escolha como abrir:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+   * No **browser**
+   * No **Expo Go** (Android/iOS)
+   * Em **emulador** configurado
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 👥 Integrantes
 
-When you're ready, run:
+| Nome                                   | Matrícula    |
+| -------------------------------------- | ------------ |
+| Alessandro Ferreira Eugênio dos Santos | 202251061387 |
+| Bernardo Alves Loures Leite            | 202351011462 |
+| Caio Rodrigues de Oliveira Gomes       | 202052309796 |
+| João Pedro Oliveira Jalles             | 202351014658 |
+| Moisés Ribeiro Santos                  | 202351050786 |
+| Otávio Silva Santana                   | 202251073891 |
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 📄 Licença
 
-## Learn more
+Projeto desenvolvido para fins acadêmicos/estudantis.
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Se quiser, posso adicionar **prints**, **arquitetura do sistema**, **roadmap**, ou deixar o README mais técnico/profissional. Só pedir!
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
