@@ -1,50 +1,93 @@
-# Welcome to your Expo app 👋
+**MediLink**
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+O MediLink é uma plataforma web desenvolvida para otimizar o funcionamento de clínicas médicas. Ele centraliza os processos internos, permitindo que médicos agendem consultas e exames rapidamente, enquanto a equipe administrativa gerencia horários, serviços e informações dos pacientes com mais organização, precisão e agilidade.
 
-## Get started
+🩺 Problemas Identificados
 
-1. Install dependencies
+- O projeto busca solucionar desafios comuns no dia a dia de clínicas:
 
-   ```bash
-   npm install
-   ```
+- Processos manuais dificultam o agendamento.
 
-2. Start the app
+- Falta de controle centralizado de horários e profissionais.
 
-   ```bash
-   npx expo start
-   ```
+- Longos tempos de espera e comunicação pouco eficiente.
 
-In the output, you'll find options to open the app in a
+- Dificuldade para organizar resultados, exames e dados dos pacientes.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+🚀 Tecnologias Utilizadas
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+**Frontend / Aplicação**
 
-## Get a fresh project
+- React
 
-When you're ready, run:
+- Expo
 
-```bash
-npm run reset-project
-```
+- JavaScript
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- React Navigation
 
-## Learn more
+- Axios
 
-To learn more about developing your project with Expo, look at the following resources:
+**Ferramentas de Desenvolvimento**
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- Node.js
 
-## Join the community
+- npm / Yarn
 
-Join our community of developers creating universal apps.
+- Visual Studio Code
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**Funcionalidades Principais**
+
+📅 Agendamento de consultas e exames
+
+👥 Gerenciamento completo de pacientes
+
+🕒 Controle centralizado de horários e profissionais
+
+📂 Organização de exames e resultados
+
+🔍 Visualização prática de informações clínicas
+
+🖥️ Interface intuitiva e otimizada para o uso diário
+
+**Como Rodar o Projeto**
+
+🔧 Pré-requisitos
+
+Certifique-se de ter instalado:
+
+- Node.js
+- npm ou Yarn
+- Expo CLI
+- Instalação do Expo CLI:
+npm install -g expo-cli
+
+▶️ Passo a Passo
+
+Instalar dependências:
+npm install
+
+Rodar o projeto:
+npx expo start
+
+
+Abrir no navegador, Expo Go ou emulador.
+
+👥 Integrantes do Projeto
+
+- Alessandro Ferreira Eugênio dos Santos - 202251061387
+
+- Bernardo Alves Loures Leite -	202351011462
+
+- Caio Rodrigues de Oliveira Gomes - 202052309796
+
+- João Pedro Oliveira Jalles - 202351014658
+
+- Moisés Ribeiro Santos - 202351050786
+
+- Otávio Silva Santana - 202251073891
+
+📄 Licença
+
+Projeto desenvolvido para fins acadêmicos/estudantis.
+
